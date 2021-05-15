@@ -1,0 +1,19 @@
+title: Dayda
+name: WV GIS Technical Center
+description: >-
+  This is a catalog of datasets organized and made more accessible from the WV
+  GIS Technical Center, providing simple dowloadable CSV and JSON files, as well
+  as Postman Collections you can use as part of workflows and other automation.
+about: This is all about the entity.
+source_url: 'http://example.com'
+source_contact_type: general
+source_phone: +1 555-555-5555
+source_email: info@example.com
+source_catalog: data.gov
+profile_pic: 'https://wvgis.wvu.edu/profile_pics/title.gif'
+favicon: /assets/img/favicon.png
+url: 'http://wv-gis-technical-center.dayda.org'
+encoding: utf-8
+paginate: 25
+paginate_path: '/page:num/'
+markdown: kramdown
